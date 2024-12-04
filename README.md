@@ -1,6 +1,6 @@
-# Digital Twin Dashboard for Recreational Vehicles (RVs)
+# Digital Twin for Recreational Vehicles (RVs)
 
-The **Digital Twin Dashboard** is a web-based application designed to monitor, simulate, and control various systems and appliances in **Recreational Vehicles (RVs)**. This project allows RV owners and service technicians to track real-time data, anticipate maintenance needs, and remotely control critical systems like HVAC.
+Currently we are working on the **Digital Twin Dashboard.** It is a web-based application designed to monitor, simulate, and control various systems and appliances in **Recreational Vehicles (RVs)**. This project allows RV owners and service technicians to track real-time data, anticipate maintenance needs, and remotely control critical systems like HVAC.
 
 ## Table of Contents
 
